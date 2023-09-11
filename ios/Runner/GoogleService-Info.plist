@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>393917891206-6fa7b73s50fctuun7flbli7qmcc4vefc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.393917891206-6fa7b73s50fctuun7flbli7qmcc4vefc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMnOE-vAQu0zRWyblChfd2z6VPRxeuI0U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>393917891206</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterApplicationAssignmnet</string>
+	<key>PROJECT_ID</key>
+	<string>assinmentluvit</string>
+	<key>STORAGE_BUCKET</key>
+	<string>assinmentluvit.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:393917891206:ios:ccef2165ad25c2d8830707</string>
+	<key>DATABASE_URL</key>
+	<string>https://assinmentluvit-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
